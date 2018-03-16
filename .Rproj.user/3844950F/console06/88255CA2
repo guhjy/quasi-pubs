@@ -1,0 +1,14 @@
+]0;~/Google Drive/Research/quasi-pubs[?1034hJeff-Walkers-imac:quasi-pubs walker$ [KJeff-Walkers-imac:quasi-pubs walker$ git init
+Initialized empty Git repository in /Users/walker/Google Drive/Research/quasi-pubs/.git/
+]0;~/Google Drive/Research/quasi-pubsJeff-Walkers-imac:quasi-pubs walker$ get remote add origin https://github.com/middleprofessor/quasi- pubs
+bash: get: command not found
+]0;~/Google Drive/Research/quasi-pubsJeff-Walkers-imac:quasi-pubs walker$ git remote add origin https://github.com/middleprofessor/quasi- pubs
+]0;~/Google Drive/Research/quasi-pubsJeff-Walkers-imac:quasi-pubs walker$ git pull origin master
+remote: Counting objects: 4, done.[K
+remote: Compressing objects:  25% (1/4)   [Kremote: Compressing objects:  50% (2/4)   [Kremote: Compressing objects:  75% (3/4)   [Kremote: Compressing objects: 100% (4/4)   [Kremote: Compressing objects: 100% (4/4), done.[K
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  25% (1/4)   Unpacking objects:  50% (2/4)   Unpacking objects:  75% (3/4)   Unpacking objects: 100% (4/4)   Unpacking objects: 100% (4/4), done.
+From https://github.com/middleprofessor/quasi-pubs
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> origin/master
+]0;~/Google Drive/Research/quasi-pubsJeff-Walkers-imac:quasi-pubs walker$ 
